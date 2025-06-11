@@ -1,0 +1,1 @@
+Aplikasi Toko Buah CERIA adalah aplikasi yang mengelola transaksi penjualan buah-buahan dalam toko dimana dalam toko ini terdapat 10 jenis buah yang dijual yaitu apel, jeruk, mangga, pisang, anggur, semangka, melon, stroberi, durian dan nanas dengan masing-masing harga berbeda.
