@@ -5,5 +5,6 @@ public interface PaymentMethod {
 
     void processPayment(double amount);
 
-    void printReceipt(Map<String, ItemKeranjang> items, double amountPaid);
+    void printReceipt(double total, double uangBayar, String paymentMethod,
+            Map<String, ItemKeranjang> keranjang);
 }

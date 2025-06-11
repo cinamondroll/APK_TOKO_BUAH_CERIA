@@ -162,7 +162,7 @@ public class PaymentFrame extends JFrame {
         } else {
             paymentMethod = new DebitPayment(); // Polimorfisme: DebitPayment
             paymentMethod.processPayment(total);
-            ReceiptPrinter.printReceipt(total, total, "Debit", keranjang);
+            paymentMethod.printReceipt(total, total, "Debit", keranjang);;
             new ResiFrame(total, total, "Debit", keranjang, storeFrame).setVisible(true);
         }
         this.dispose();

@@ -1,15 +1,19 @@
 ==========================================
              TOKO BUAH CERIA              
 ==========================================
-Tanggal: 11/06/2025 22:58:07
+Tanggal: 12/06/2025 01:34:14
 ------------------------------------------
 Nama Buah         Qty      Harga      Total
 ------------------------------------------
-Strawberry          1    Rp20000    Rp20000
+Mangga              2     Rp8000    Rp16000
+Anggur              1    Rp15000    Rp15000
+Nanas               1     Rp7000     Rp7000
+Jeruk               1     Rp6000     Rp6000
 ------------------------------------------
-Total:                              Rp20000
-Metode Pembayaran:                    Debit
-Jumlah Dibayar:                     Rp20000
+Total:                              Rp44000
+Metode Pembayaran:                     Cash
+Jumlah Dibayar:                     Rp50000
+Kembalian:                           Rp6000
 ==========================================
            TERIMA KASIH TELAH             
             BERBELANJA DISINI             

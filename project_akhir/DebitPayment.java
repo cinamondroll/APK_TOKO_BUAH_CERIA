@@ -8,9 +8,10 @@ public class DebitPayment implements PaymentMethod {
     }
 
     @Override
-    public void printReceipt(Map<String, ItemKeranjang> items, double amountPaid) {
+    public void printReceipt(double total, double amountPaid, String paymentMethod,
+            Map<String, ItemKeranjang> items) {
         
-        ReceiptPrinter.printReceipt(amountPaid, amountPaid, "Debit", items);
+        ReceiptPrinter.printReceipt(total, total, paymentMethod, items);;
         System.out.println("Cetak resi DEBIT - Dibayar lunas");
     }
 }
